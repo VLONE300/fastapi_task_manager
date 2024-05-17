@@ -1,0 +1,7 @@
+.venv
+venv
+task.db
+.idea
+__pychache__
+alembic
+alembic.ini
